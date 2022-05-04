@@ -24,7 +24,6 @@
 <img align="left" alt="Photoshop" width="23px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/adobe-photoshop.svg" style="padding-right:5px;" />
 
 
-
 <!--
 **younis3/younis3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,3 +38,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br><br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
