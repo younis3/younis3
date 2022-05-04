@@ -20,7 +20,7 @@
 <img align="left" alt="csharp" width="22px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" style="padding-right:5px;" />  
 <img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:5px;" />
 <!-- <img align="left" alt="mui" width="22px" src="https://cdn.cdnlogo.com/logos/m/57/material-ui.svg" style="padding-right:5px;" /> -->
-<img align="left" alt="tailwind" width="22px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" style="padding-right:5px;" />
+<img align="left" alt="tailwind" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" style="padding-right:5px;" />
 <img align="left" alt="Photoshop" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/adobe-photoshop.svg" style="padding-right:5px;" />
 
 
