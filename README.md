@@ -19,6 +19,7 @@
 <img align="left" alt="Java" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" style="padding-right:8px;" />
 <img align="left" alt="csharp" width="26px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" style="padding-right:8px;" />  
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:8px;" />
+<img align="left" alt="mui" width="26px" src="https://cdn.cdnlogo.com/logos/m/57/material-ui.svg" style="padding-right:8px;" />
 <img align="left" alt="Photoshop" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/adobe-photoshop.svg" style="padding-right:8px;" />
 
 
