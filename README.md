@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 -->
 
 <br><br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younis3&show_icons=true&theme=radical)
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younis3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
