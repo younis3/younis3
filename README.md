@@ -1,5 +1,28 @@
 ### Hi there 👋
 
+### Skills:
+
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TypeScript" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NextJS" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" style="padding-right:10px;" />
+<img align="left" alt="Angular" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="PHP" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" style="padding-right:10px;" />
+<img align="left" alt="Kotlin" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" style="padding-right:10px;" />
+<img align="left" alt="csharp" width="26px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" style="padding-right:10px;" />  
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Photoshop" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/adobe-photoshop.svg" style="padding-right:10px;" />
+
+
+
 <!--
 **younis3/younis3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
