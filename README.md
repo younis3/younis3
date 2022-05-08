@@ -5,6 +5,7 @@
 
 #### 🌱 Currenlty learning:
 - React
+- React Native
 - React Context
 - Redux (RTK)
 - Advanced React Hooks
