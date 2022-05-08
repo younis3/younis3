@@ -1,9 +1,9 @@
 ## Hi there 👋 
 
 ### I'm Ahmad Younis, Full Stack Software Engineer 
-#### Current Favorite Stack: MERN (React + NodeJS)
+#### 📌 Current Favorite Stack: MERN (React + NodeJS)
 
-#### Currenlty learning:
+#### 🌱 Currenlty learning:
 - React
 - React Context
 - Redux (RTK)
@@ -11,7 +11,7 @@
 - NextJS
 - AWS
 
-#### Don't hesitate to reach me for anything related to collaboration on projects or jobs <b> younis3.b@gmail.com </b>
+#### 🗓️ Don't hesitate to reach me for anything related to collaboration on projects or jobs <b> younis3.b@gmail.com </b>
 <a href = "mailto:younis3.b@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <br />
 <a href="https://www.linkedin.com" target="_blank"><img
@@ -97,7 +97,7 @@ Here are some ideas to get you started:
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api?username=younis3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=younis3&layout=compact&langs_count=6&hide=jupyter%20notebook&theme=dracula" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=younis3&layout=compact&langs_count=7&hide=jupyter%20notebook&theme=dracula" />
     </a>
     <br />
     <br />
