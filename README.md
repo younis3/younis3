@@ -9,6 +9,7 @@
 - Redux (RTK)
 - Advanced React Hooks
 - NextJS
+- Socket.io
 - AWS
 
 #### 🗓️ Don't hesitate to reach me for anything related to collaboration on projects or jobs <b> younis3.b@gmail.com </b>
