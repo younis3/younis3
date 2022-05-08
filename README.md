@@ -1,8 +1,17 @@
 ## Hi there 👋 
 
 ### I'm Ahmad Younis, Full Stack Software Engineer 
+#### Current Favorite Stack: MERN (React + NodeJS)
 
-### Contact:
+#### Currenlty learning:
+- React
+- React Context
+- Redux (RTK)
+- Advanced React Hooks
+- NextJS
+- AWS
+
+#### Don't hesitate to reach me for anything related to collaboration on projects or jobs <b> younis3.b@gmail.com </b>
 <a href = "mailto:younis3.b@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <br />
 <a href="https://www.linkedin.com" target="_blank"><img
