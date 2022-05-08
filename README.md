@@ -20,7 +20,7 @@
         target="_blank" /></a>
 
 
-### Skills:
+## Skills:
 <div align="center"> 
     <img align="left" alt="HTML5" width="23px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right: 5px" />
@@ -70,6 +70,7 @@
 </div>
 
 
+
 <!--
 **younis3/younis3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -92,6 +93,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 <br />
+<p align="center" >
+____________________________________
+</p>
 <br />
 <div align="center">
     <a href="https://github.com/younis3">
@@ -124,5 +128,4 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://github.com/younis3/younis3/blob/output/github-contribution-grid-snake.svg" />
 </div>
-
 
