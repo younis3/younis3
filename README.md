@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younis3&layout=compact&langs_count=6&hide=jupyter%20notebook)
 
-<!-- ![Snake animation](https://github.com/younis3/younis3/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/younis3/younis3/blob/output/github-contribution-grid-snake.svg)
