@@ -47,28 +47,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br><br><br>
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younis3&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younis3&layout=compact&langs_count=6&hide=jupyter%20notebook) -->
 
 
 
-<br/>
-
-  
-
-
-
-
+ 
 <div align="center">
   <a href="https://github.com/younis3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=younis3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younis3&layout=compact&langs_count=6&hide=jupyter%20notebook&theme=dracula"/>
   </a>
+  <br/>
   <p>
-    <br/>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-    </p>
+  </p>
 </div>
 <br/><br/>
 <div align="center">
@@ -81,12 +75,8 @@ Here are some ideas to get you started:
 </div>
 
   
-![Snake animation](https://github.com/younis3/younis3/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/younis3/younis3/blob/output/github-contribution-grid-snake.svg) -->
   
 <div align="center"> 
- 
-    
+    <img src="https://github.com/younis3/younis3/blob/output/github-contribution-grid-snake.svg">
 </div>
-
-<p style="text-align:center;"><img src="https://github.com/younis3/younis3/blob/output/github-contribution-grid-snake.svg" alt="Logo"></p>
-
