@@ -1,4 +1,8 @@
-## Hi there 👋 ### I'm Ahmad Younis, Full Stack Software Engineer ### Contact:
+## Hi there 👋 
+
+### I'm Ahmad Younis, Full Stack Software Engineer 
+
+### Contact:
 <a href="mailto:younis3.b@gmail.com"><img
         src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
         target="_blank" /></a>
@@ -7,8 +11,9 @@
         src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         target="_blank" /></a>
 
+
 ### Skills:
-<div align="center">
+<div align="center"> 
     <img align="left" alt="HTML5" width="23px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right: 5px" />
     <img align="left" alt="CSS3" width="23px"
@@ -56,6 +61,7 @@
         style="padding-right: 5px" />
 </div>
 
+
 <!--
 **younis3/younis3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -74,6 +80,9 @@ Here are some ideas to get you started:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younis3&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younis3&layout=compact&langs_count=6&hide=jupyter%20notebook) -->
 
+
+<br />
+<br />
 <br />
 <br />
 <div align="center">
@@ -84,11 +93,13 @@ Here are some ideas to get you started:
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=younis3&layout=compact&langs_count=6&hide=jupyter%20notebook&theme=dracula" />
     </a>
     <br />
+    <br />
     <p>
         <b>Note:</b> Top languages is only a metric of the languages my public code
-        consists of and doesn't reflect experience or skill level.
+        consists of<br> and doesn't reflect experience or skill level.
     </p>
 </div>
+
 
 <br />
 <br />
@@ -105,3 +116,5 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://github.com/younis3/younis3/blob/output/github-contribution-grid-snake.svg" />
 </div>
+
+
