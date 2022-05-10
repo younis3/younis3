@@ -1,84 +1,85 @@
-## Hi there 👋 
+### Hii 👋  
+I'm a full stack software dev
 
-### I'm Ahmad Younis, Full Stack Software Engineer 
-#### 📌 My Current Personal Favorite Stack: MERN (React + NodeJS)
-
-#### 🌱 Currenlty learning:
-- React
-- React Native
-- React Context
-- Redux (RTK)
-- Advanced React Hooks
-- NextJS
-- Socket.io
-- AWS
-
-#### 🗓️ Don't hesitate to reach me for anything related to collaboration on projects or jobs <b> younis3.b@gmail.com </b>
+#### 🗓️ Contact me at >> <b>younis3.b@gmail.com</b> 
 <a href = "mailto:younis3.b@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <br />
 <a href="https://www.linkedin.com" target="_blank"><img
         src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         target="_blank" /></a>
+        
+_________________________
+        
+        
 
-
-## Skills:
+### Skills:
 <div align="center"> 
-    <img align="left" alt="HTML5" width="26px"
+    <img align="left" alt="HTML5" width="28px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right: 5px" />
-    <img align="left" alt="CSS3" width="26px"
+    <img align="left" alt="CSS3" width="28px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right: 5px" />
-    <img align="left" alt="JavaScript" width="26px"
+    <img align="left" alt="JavaScript" width="28px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
         style="padding-right: 5px" />
-    <img align="left" alt="TypeScript" width="26px"
+    <img align="left" alt="TypeScript" width="28px"
         src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" style="padding-right: 5px" />
-    <img align="left" alt="React" width="26px"
+    <img align="left" alt="React" width="28px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right: 5px" />
-    <!--   <img alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="padding-right:5px;" /> -->
-    <img align="left" alt="Redux" width="26px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" style="padding-right: 5px" />
-    <img align="left" alt="NextJS" width="26px"
+    <!--   <img alt="React" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="padding-right:5px;" /> -->
+    <img align="left" alt="Redux" width="28px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" style="padding-right: 5px" />
+    <img align="left" alt="NextJS" width="28px"
         src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" style="padding-right: 5px" />
-    <img align="left" alt="Angular" width="26px"
+    <img align="left" alt="Angular" width="28px"
         src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" style="padding-right: 5px" />
-    <img align="left" alt="Node.js" width="26px"
+    <img align="left" alt="Node.js" width="28px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         style="padding-right: 5px" />
-    <img align="left" alt="MongoDB" width="26px"
+    <img align="left" alt="MongoDB" width="28px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
         style="padding-right: 5px" />
-    <img align="left" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+    <img align="left" alt="Firebase" width="28px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
         style="padding-right: 5px" />
-    <img align="left" alt="MySQL" width="26px"
+    <img align="left" alt="MySQL" width="28px"
         src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" style="padding-right: 5px" /> <br><br>  
-    <img align="left" alt="PHP" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" style="padding-right: 5px" />
-    <img align="left" alt="Python" width="26px"
+    <img align="left" alt="PHP" width="28px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" style="padding-right: 5px" />
+    <img align="left" alt="Python" width="28px"
         src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" style="padding-right: 5px" />
-    <img align="left" alt="Kotlin" width="26px"
+    <img align="left" alt="Kotlin" width="28px"
         src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" style="padding-right: 5px" />
-    <img align="left" alt="Java" width="26px"
+    <img align="left" alt="Java" width="28px"
         src="https://www.svgrepo.com/show/250465/java.svg" style="padding-right: 5px" />
-    <img align="left" alt="csharp" width="26px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg"
+    <img align="left" alt="csharp" width="28px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg"
         style="padding-right: 5px" />
-    <img align="left" alt="dotnet" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"
+    <img align="left" alt="dotnet" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"
         style="padding-right: 5px" />
-    <img align="left" alt="Git" width="26px"
+    <img align="left" alt="Git" width="28px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right: 5px" />
-<!--     <img align="left" alt="excel" width="26px"
+<!--     <img align="left" alt="excel" width="28px"
         src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"
         style="padding-right: 5px" /> -->
-<!--     <img align="left" alt="mui" width="26px" src="https://cdn.cdnlogo.com/logos/m/57/material-ui.svg" style="padding-right:5px;" /> -->
-    <img align="left" alt="tailwind" width="26px"
+<!--     <img align="left" alt="mui" width="28px" src="https://cdn.cdnlogo.com/logos/m/57/material-ui.svg" style="padding-right:5px;" /> -->
+    <img align="left" alt="tailwind" width="28px"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png"
         style="padding-right: 5px" />
-    <img align="left" alt="Photoshop" width="26px"
+    <img align="left" alt="Photoshop" width="28px"
         src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/adobe-photoshop.svg"
         style="padding-right: 5px" />
-<!--     <img align="left" alt="Premiere" width="26px"
+<!--     <img align="left" alt="Premiere" width="28px"
         src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Adobe_Premiere_Pro_Logo.svg"
         style="padding-right: 5px" /> -->
+        <br />
+        <br />
+        <br />
 </div>
 
 
+
+- 💙 Current fav stack: MERN (React + NodeJS)  
+- 🌱 Currently learning more about:  
+        - React, React Native, Redux (RTK), Advanced React Hooks  
+        - NextJS + TS  
+        - Socket.io  
+        - AWS  
 
 
 <!--
@@ -100,12 +101,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younis3&layout=compact&langs_count=6&hide=jupyter%20notebook) -->
 
 
-<br />
-<br />
-<br />
-<p align="center" >
-____________________________________
-</p>
+_____________________________
 <br />
 <div align="center">
     <a href="https://github.com/younis3">
