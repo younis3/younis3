@@ -39,10 +39,12 @@ _________________________
         style="padding-right: 5px" />
     <img align="left" alt="Firebase" width="30px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
         style="padding-right: 5px" />
-            <img align="left" alt="MySQL" width="30px"
+<!--             <img align="left" alt="MySQL" width="30px"
         src="https://icons-for-free.com/download-icon-development+logo+mysql+icon-1320184807686758112_0.svg" style="padding-right: 5px" /> <br><br>  
 <!--     <img align="left" alt="MySQL2" width="30px"
-        src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" style="padding-right: 5px" /> <br><br>   -->
+        src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" style="padding-right: 5px" /> <br><br>  -->
+           <img align="left" alt="MySQL3" width="45px"
+        src="https://logojinni.com/image/logos/mysql-501.svg" style="padding-right: 5px" /> <br><br>  
     <img align="left" alt="PHP" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" style="padding-right: 5px" />
     <img align="left" alt="Python" width="30px"
         src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" style="padding-right: 5px" />
