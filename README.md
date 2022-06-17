@@ -66,7 +66,7 @@ __________________________
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right: 5px" />
     <img align="left" alt="Linux" width="26px"
         src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" style="padding-right: 5px" />
-    <img align="left" alt="Sass" width="42px"
+    <img align="left" alt="Sass" width="43px"
         src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" style="padding-right: 5px" />
     <img align="left" alt="tailwind" width="36px"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png"
