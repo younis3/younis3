@@ -85,16 +85,14 @@ __________________________
         <br />
 </div>
 
-
-
-- 💙 Current fav stack: MERN (React/Next + NodeJS)  
-- 🌱 Currently learning more about:  
+#### - 💙 Current fav stack: MERN (React/Next + NodeJS)  
+#### - 🌱 Currently learning more about:  
         - React, React Native, Redux (RTK), Advanced React Hooks  
         - NextJS + TS  
         - Socket.io  
         - AWS  
 
-### 🔸🔹🔸🔹🔸🔹
+#### 🔸🔹🔸🔹🔸🔹
 
 
 _____________________________
