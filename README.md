@@ -1,12 +1,21 @@
 
+#### 🔗 www.website.com
+
 #### Email & Social Links >>
-<a href = "mailto:younis3.b@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<br />
-<a href="https://www.linkedin.com/in/younis" target="_blank"><img
+<a href = "mailto:younis3.b@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/" target="_blank"><img
         src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        target="_blank" /></a>    
+<a href="https://www.twitter.com" target="_blank"><img
+        src="https://img.shields.io/badge/-Twitter-9cf?style=for-the-badge&logo=twitter&logoColor=black"
+        target="_blank" /></a>     
+<a href="https://www.dev.to/" target="_blank"><img
+        src="https://img.shields.io/badge/-DEV-lightgrey?style=for-the-badge&logo=dev.to&logoColor=black"
         target="_blank" /></a>
         
 __________________________
+        
         
         
 <h3 align="left">Languages & Tools:</h3>
