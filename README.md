@@ -74,7 +74,7 @@ __________________________
     <img align="left" alt="Figma" width="22px"
         src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
         style="padding-right: 5px" />
-    <img align="left" alt="Photoshop" width="30px"
+    <img align="left" alt="Photoshop" width="32px"
         src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/adobe-photoshop.svg"
         style="padding-right: 5px" />
 <!--     <img align="left" alt="Premiere" width="30px"
