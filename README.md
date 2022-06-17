@@ -8,7 +8,7 @@
         src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         target="_blank" /></a>    
 <a href="https://www.twitter.com" target="_blank"><img
-        src="https://img.shields.io/badge/-Twitter-9cf?style=for-the-badge&logo=twitter&logoColor=black"
+        src="https://img.shields.io/badge/-Twitter-9cf?style=for-the-badge&logo=twitter&logoColor=grey"
         target="_blank" /></a>     
 <a href="https://www.dev.to/" target="_blank"><img
         src="https://img.shields.io/badge/-DEV-lightgrey?style=for-the-badge&logo=dev.to&logoColor=black"
