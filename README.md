@@ -75,7 +75,7 @@ __________________________
         src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
         style="padding-right: 5px" />
     <img align="left" alt="Photoshop" width="32px"
-        src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/adobe-photoshop.svg"
+        src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-photoshop-icon.svg"
         style="padding-right: 5px" />
 <!--     <img align="left" alt="Premiere" width="30px"
         src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Adobe_Premiere_Pro_Logo.svg"
