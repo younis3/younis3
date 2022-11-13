@@ -86,9 +86,10 @@ __________________________
 
 
 #### 🌱 Currently learning more about:  
-        - React, React Native, Redux (RTK), Advanced React Hooks  
+        - Redux (RTK)
         - NextJS + TS  
-        - Socket.io  
+        - Socket.io 
+        - React Native
         - AWS  
 
 #### 🔸🔹🔸🔹🔸🔹
