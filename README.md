@@ -16,7 +16,6 @@
         
 __________________________
         
-#### 💙 Main stack: MERN (React/Next + NodeJS)  
         
 <h3 align="left">Languages & Tools:</h3>
 <div align="center"> 
@@ -84,17 +83,7 @@ __________________________
         <br />
 </div>
 
-
-#### 🌱 Currently learning more about:  
-        - Redux (RTK)
-        - NextJS
-        - Socket.io 
-        - React Native
-        - AWS  
-
-#### 🔸🔹🔸🔹🔸🔹
-
-
+#### 💙 Favorite Stack: MERN (React/Next/NodeJS)  
 _____________________________
 <br />
 <div align="center">
