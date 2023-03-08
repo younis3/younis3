@@ -83,7 +83,6 @@ __________________________
         <br />
 </div>
 
-#### 💙 Favorite Stack: MERN (React/Next/NodeJS)  
 _____________________________
 <br />
 <div align="center">
