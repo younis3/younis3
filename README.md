@@ -89,7 +89,7 @@ __________________________
     <img align="left" alt="Photoshop" width="35px"
         src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-photoshop-icon.svg"
         style="padding-right: 5px" />
-        <br><br><br>
+        <br><br>
         
 <!--     <img align="left" alt="Premiere" width="30px"
         src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Adobe_Premiere_Pro_Logo.svg"
