@@ -40,11 +40,11 @@ __________________________
     <img align="left" alt="Node.js" width="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         style="padding-right: 5px" />
-    <img align="left" alt="MongoDB" width="30px"
+    <img align="left" alt="MongoDB" width="34px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
         style="padding-right: 5px" />
-    <img align="left" alt="MySQL" width="44px"
-        src="https://logojinni.com/image/logos/mysql-501.svg" 
+    <img align="left" alt="MySQL" width="31px"
+        src="https://www.svgrepo.com/show/303301/postgresql-logo.svg"
         style="padding-right: 5px" />
     <img align="left" alt="Firebase" width="28px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
         style="padding-right: 5px" /> <br><br>  
@@ -65,15 +65,15 @@ __________________________
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right: 5px" />
     <img align="left" alt="Linux" width="26px"
         src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" style="padding-right: 5px" />
-    <img align="left" alt="Sass" width="43px"
+    <img align="left" alt="Sass" width="37px"
         src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" style="padding-right: 5px" />
-    <img align="left" alt="tailwind" width="36px"
+    <img align="left" alt="tailwind" width="34px"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png"
         style="padding-right: 5px" />
-    <img align="left" alt="Figma" width="22px"
+    <img align="left" alt="Figma" width="20px"
         src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
         style="padding-right: 5px" />
-    <img align="left" alt="Photoshop" width="32px"
+    <img align="left" alt="Photoshop" width="34px"
         src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-photoshop-icon.svg"
         style="padding-right: 5px" />
 <!--     <img align="left" alt="Premiere" width="30px"
