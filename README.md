@@ -18,7 +18,7 @@ __________________________
         
         
 <h3 align="left">Languages & Tools:</h3>
-<div align="center"> 
+<div align="center">
     <img align="left" alt="HTML5" width="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right: 5px" />
     <img align="left" alt="CSS3" width="30px"
@@ -90,14 +90,11 @@ __________________________
         src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-photoshop-icon.svg"
         style="padding-right: 5px" />
         <br><br><br>
-   
-
+        
 <!--     <img align="left" alt="Premiere" width="30px"
         src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Adobe_Premiere_Pro_Logo.svg"
         style="padding-right: 5px" /> -->
-
         
-
 </div>
 
 _____________________________
