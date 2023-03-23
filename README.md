@@ -53,7 +53,7 @@ __________________________
         src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" style="padding-right: 5px" />
     <img align="left" alt="Git" width="32px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right: 5px" />
-    <img align="left" alt="Linux" width="26px"
+    <img align="left" alt="Linux" width="28px"
         src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" style="padding-right: 5px" /><br><br>  
     <img align="left" alt="PostreSQL" width="28px"
         src="https://www.svgrepo.com/show/303301/postgresql-logo.svg"
@@ -66,27 +66,31 @@ __________________________
         style="padding-right: 2px" />
     <img align="left" alt="Firebase" width="28px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
         style="padding-right: 5px" /> 
-    <img align="left" alt="socketio" width="34px"
+    <img align="left" alt="socketio" width="35px"
         src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" style="padding-right: 5px" />
+    <img align="left" alt="postman" width="28px"
+        src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="padding-right: 5px" />
+    <img align="left" alt="jupyter" width="33px"
+        src="https://www.svgrepo.com/show/353949/jupyter.svg" style="padding-right: 5px" />
     <img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"
         style="padding-right: 5px" />
     <img align="left" alt="chartjs" width="34px"
-        src="https://asset.brandfetch.io/idFdo8ulhr/idg4l58CuH.svg" style="padding-right: 5px" />
-    <img align="left" alt="tailwind" width="32px"
+        src="https://asset.brandfetch.io/idFdo8ulhr/idg4l58CuH.svg" style="padding-right: 5px" /> <br><br>
+    <img align="left" alt="Sass" width="34px"
+        src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" style="padding-right: 5px" />
+    <img align="left" alt="tailwind" width="30px"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png"
         style="padding-right: 5px" /> 
-    <img align="left" alt="Sass" width="34px"
-        src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" style="padding-right: 5px" /><br><br>
-    <img align="left" alt="Jest" width="28px"
-        src="https://iconape.com/wp-content/files/dx/352988/svg/jest-seeklogo.com.svg" style="padding-right: 5px" />
-    <img align="left" alt="MUI" width="36px"
+    <img align="left" alt="MUI" width="34px"
         src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" style="padding-right: 5px" />
     <img align="left" alt="FramerMotion" width="30px"
         src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" style="padding-right: 5px" />
+    <img align="left" alt="Jest" width="28px"
+        src="https://iconape.com/wp-content/files/dx/352988/svg/jest-seeklogo.com.svg" style="padding-right: 5px" />
     <img align="left" alt="Figma" width="24px"
         src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
         style="padding-right: 5px" />
-    <img align="left" alt="Photoshop" width="35px"
+    <img align="left" alt="Photoshop" width="36px"
         src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-photoshop-icon.svg"
         style="padding-right: 5px" />
         <br><br>
