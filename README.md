@@ -70,7 +70,7 @@ __________________________
         src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" style="padding-right: 5px" />
     <img align="left" alt="postman" width="28px"
         src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="padding-right: 5px" />
-    <img align="left" alt="jupyter" width="33px"
+    <img align="left" alt="jupyter" width="31px"
         src="https://www.svgrepo.com/show/353949/jupyter.svg" style="padding-right: 5px" />
     <img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"
         style="padding-right: 5px" />
